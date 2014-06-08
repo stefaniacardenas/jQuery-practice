@@ -1,4 +1,3 @@
-$(document).ready(function() {
-    var $target = $("#4");
-    $target.fadeOut('fast');
+$(document).ready(function() { 
+  $(".red, .pink").fadeTo('slow', 0);
 });

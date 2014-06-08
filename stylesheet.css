@@ -1,6 +1,15 @@
 div {
-    height: 100px;
-    width: 100px;
-    background-color: #FA6900;
-    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: #FF9C5B;
+    display: inline-block;
+}
+
+.red {
+    background-color: #E84A5F;
+}
+
+.pink {
+    background-color: #FF847C;
 }
