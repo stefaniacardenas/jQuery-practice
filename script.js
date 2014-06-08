@@ -1,3 +1,5 @@
 $(document).ready(function() { 
-  $(".red, .pink").fadeTo('slow', 0);
+    $(".pull-me").click(function() {
+    $(".panel").slideToggle('slow');
+    });
 });
