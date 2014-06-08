@@ -1,5 +1,4 @@
 $(document).ready(function() {
-	$("div").click(function() {
-    $("div").fadeOut('slow');
-	});
+    var $target = $("#4");
+    $target.fadeOut('fast');
 });
